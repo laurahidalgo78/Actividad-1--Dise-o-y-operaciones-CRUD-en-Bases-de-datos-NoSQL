@@ -1,0 +1,118 @@
+[{
+  "_id": "tabla1",
+  "temporada": "Primera semana 2024",
+  "posiciones": [
+    {
+      "equipo_id": "equipo1",
+      "ganados": 10,
+      "perdidos": 2
+    },
+    {
+      "equipo_id": "equipo2",
+      "ganados": 9,
+      "perdidos": 3
+    },
+    {
+      "equipo_id": "equipo3",
+      "ganados": 8,
+      "perdidos": 4
+    },
+    {
+      "equipo_id": "equipo4",
+      "ganados": 7,
+      "perdidos": 5
+    },
+    {
+      "equipo_id": "equipo5",
+      "ganados": 6,
+      "perdidos": 6
+    },
+    {
+      "equipo_id": "equipo6",
+      "ganados": 5,
+      "perdidos": 7
+    },
+    {
+      "equipo_id": "equipo7",
+      "ganados": 4,
+      "perdidos": 8
+    },
+    {
+      "equipo_id": "equipo8",
+      "ganados": 3,
+      "perdidos": 9
+    }
+  ]
+},
+{
+  "_id": "tabla2",
+  "temporada": "Segunda semana 2024",
+  "posiciones": [
+    {
+      "equipo_id": "equipo3",
+      "ganados": 18,
+      "perdidos": 2
+    },
+    {
+      "equipo_id": "equipo5",
+      "ganados": 16,
+      "perdidos": 4
+    },
+    {
+      "equipo_id": "equipo6",
+      "ganados": 15,
+      "perdidos": 5
+    },
+    {
+      "equipo_id": "equipo1",
+      "ganados": 14,
+      "perdidos": 6
+    },
+    {
+      "equipo_id": "equipo2",
+      "ganados": 13,
+      "perdidos": 7
+    },
+    {
+      "equipo_id": "equipo4",
+      "ganados": 12,
+      "perdidos": 8
+    },
+    {
+      "equipo_id": "equipo7",
+      "ganados": 11,
+      "perdidos": 9
+    },
+    {
+      "equipo_id": "equipo8",
+      "ganados": 10,
+      "perdidos": 10
+    }
+  ]
+},
+{
+  "_id": "tabla3",
+  "temporada": "Cuarta semana 2024",
+  "posiciones": [
+    {
+      "equipo_id": "equipo1",
+      "ganados": 30,
+      "perdidos": 12
+    },
+    {
+      "equipo_id": "equipo4",
+      "ganados": 29,
+      "perdidos": 13
+    },
+    {
+      "equipo_id": "equipo6",
+      "ganados": 28,
+      "perdidos": 14
+    },
+    {
+      "equipo_id": "equipo7",
+      "ganados": 28,
+      "perdidos": 14
+    }
+  ]
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": "entrenador1",
+  "nombre": "Martin Ruiz",
+  "edad": 47
+},
+{
+  "_id": "entrenador2",
+  "nombre": "Portasio Gomez",
+  "edad": 52
+},
+{
+  "_id": "entrenador3",
+  "nombre": "Ivan Sánchez",
+  "edad": 35
+},
+{
+  "_id": "entrenador4",
+  "nombre": "Wilber Castillo",
+  "edad": 44
+},
+{
+  "_id": "entrenador5",
+  "nombre": "Diego Patiño",
+  "edad": 40
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": "jugador1",
+  "nombre": "Beto Martinez",
+  "edad": 25,
+  "nacionalidad": "Colombia",
+  "altura": "1.90m",
+  "peso": "85kg",
+  "posicion": "alero",
+  "equipo_id": "equipo1"
+},
+{
+  "_id": "jugador2",
+  "nombre": "Rodrigo Rojas",
+  "edad": 22,
+  "nacionalidad": "Colombia",
+  "altura": "1.80m",
+  "peso": "80kg",
+  "posicion": "Escolta",
+  "equipo_id": "equipo1"
+},
+{
+  "_id": "jugador3",
+  "nombre": "Raul Jimenez",
+  "edad": 24,
+  "nacionalidad": "Venezolano",
+  "altura": "1.78m",
+  "peso": "77kg",
+  "posicion": "base",
+  "equipo_id": "equipo1"
+},
+{
+  "_id": "jugador4",
+  "nombre": "Felipe Mariño",
+  "edad": 23,
+  "nacionalidad": "Colombia",
+  "altura": "2.02m",
+  "peso": "96kg",
+  "posicion": "Pivot",
+  "equipo_id": "equipo1"
+},
+{
+  "_id": "jugador5",
+  "nombre": "Jose Lopez",
+  "edad": 24,
+  "nacionalidad": "Colombia",
+  "altura": "1.98m",
+  "peso": "93kg",
+  "posicion": "Escolta",
+  "equipo_id": "equipo1"
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": "partido1",
+  "fecha": "2024-04-12",
+  "ubicacion": "Bosa Parque el Recreo",
+  "equipo1_id": "equipo1",
+  "equipo2_id": "equipo2",
+  "arbitro_id": "arbitro1",
+  "resultado_id": "resultado1"
+},
+{
+  "_id": "partido3",
+  "fecha": "2024-04-14",
+  "ubicacion": "Bosa Parque el Recreo",
+  "equipo1_id": "equipo5",
+  "equipo2_id": "equipo6",
+  "arbitro_id": "arbitro3",
+  "resultado_id": "resultado3"
+},
+{
+  "_id": "partido4",
+  "fecha": "2024-04-15",
+  "ubicacion": "Bosa Parque el Recreo",
+  "equipo1_id": "equipo7",
+  "equipo2_id": "equipo8",
+  "arbitro_id": "arbitro4",
+  "resultado_id": "resultado4"
+},
+{
+  "_id": "partido5",
+  "fecha": "2024-04-23",
+  "ubicacion": "Bosa Parque el Recreo",
+  "equipo1_id": "equipo1",
+  "equipo2_id": "equipo3",
+  "arbitro_id": "arbitro5",
+  "resultado_id": "resultado5"
+},
+{
+  "_id": "partido2",
+  "fecha": "2024-04-13",
+  "ubicacion": "Bosa Parque el Recreo",
+  "equipo1_id": "equipo3",
+  "equipo2_id": "equipo4",
+  "arbitro_id": "arbitro2",
+  "resultado_id": "resultado2"
+}]

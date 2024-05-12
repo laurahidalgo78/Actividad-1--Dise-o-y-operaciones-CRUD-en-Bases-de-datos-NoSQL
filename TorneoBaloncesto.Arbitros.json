@@ -1,0 +1,25 @@
+[{
+  "_id": "arbitro1",
+  "nombre": "Martha Huertas",
+  "edad": 34
+},
+{
+  "_id": "arbitro2",
+  "nombre": "Luis Fernández",
+  "edad": 30
+},
+{
+  "_id": "arbitro4",
+  "nombre": "Luisa Mendez",
+  "edad": 36
+},
+{
+  "_id": "arbitro3",
+  "nombre": "Laura Godoy",
+  "edad": 32
+},
+{
+  "_id": "arbitro5",
+  "nombre": "Johan Sánchez",
+  "edad": 35
+}]

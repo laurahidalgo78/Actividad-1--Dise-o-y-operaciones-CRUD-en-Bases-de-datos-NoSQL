@@ -1,0 +1,30 @@
+[{
+  "_id": "resultado1",
+  "puntos_equipo1": 40,
+  "puntos_equipo2": 35,
+  "ganador": "equipo1"
+},
+{
+  "_id": "resultado2",
+  "puntos_equipo3": 95,
+  "puntos_equipo4": 90,
+  "ganador": "equipo3"
+},
+{
+  "_id": "resultado3",
+  "puntos_equipo5": 70,
+  "puntos_equipo6": 80,
+  "ganador": "equipo6"
+},
+{
+  "_id": "resultado4",
+  "puntos_equipo7": 45,
+  "puntos_equipo8": 46,
+  "ganador": "equipo8"
+},
+{
+  "_id": "resultado5",
+  "puntos_equipo1": 102,
+  "puntos_equipo3": 67,
+  "ganador": "equipo1"
+}]

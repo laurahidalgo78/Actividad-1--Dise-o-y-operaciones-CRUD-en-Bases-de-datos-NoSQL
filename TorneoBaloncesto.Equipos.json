@@ -1,0 +1,63 @@
+[{
+  "_id": "equipo1",
+  "nombre": "Los calidosos",
+  "ciudad": "Colombia",
+  "entrenador_id": "entrenador1",
+  "jugadores": [
+    "jugador1",
+    "jugador2",
+    "jugador3",
+    "jugador4",
+    "jugador5"
+  ]
+},
+{
+  "_id": "equipo2",
+  "nombre": "Team Soacha",
+  "ciudad": "Colombia",
+  "entrenador_id": "entrenador2",
+  "jugadores": [
+    "jugador6",
+    "jugador7",
+    "jugador8",
+    "jugador9",
+    "jugador10"
+  ]
+},
+{
+  "_id": "equipo3",
+  "nombre": "Los Halcones",
+  "ciudad": "Colombia",
+  "entrenador_id": "entrenador3",
+  "jugadores": [
+    "jugador11",
+    "jugador12",
+    "jugador13",
+    "jugador14"
+  ]
+},
+{
+  "_id": "equipo4",
+  "nombre": "Warriors",
+  "ciudad": "Colombia",
+  "entrenador_id": "entrenador4",
+  "jugadores": [
+    "jugador15",
+    "jugador16",
+    "jugador17",
+    "jugador18",
+    "jugador19"
+  ]
+},
+{
+  "_id": "equipo5",
+  "nombre": "Dragones del Dribbling",
+  "ciudad": "Colombia",
+  "entrenador_id": "entrenador5",
+  "jugadores": [
+    "jugador20",
+    "jugador21",
+    "jugador22",
+    "jugador23"
+  ]
+}]
